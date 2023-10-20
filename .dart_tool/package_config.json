@@ -27,7 +27,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/andreyprokhorov/.pub-cache/hosted/pub.dev/meta-1.10.0",
+      "rootUri": "file:///Users/andreyprokhorov/.pub-cache/hosted/pub.dev/meta-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -68,7 +68,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-10-12T02:32:04.311343Z",
+  "generated": "2023-10-15T20:17:48.248921Z",
   "generator": "pub",
   "generatorVersion": "3.1.3"
 }
